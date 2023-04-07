@@ -2,6 +2,10 @@
 
 ## This page contains highlights from my career and was written using Markdown.
 
+Visit my Wiki Pages for more writing samples:
+https://github.com/JenArmenta/technical-writing-portfolio/wiki
+
+
 ### SUMMARY
 Highly skilled technical writer, proficient with delivering accurate, high-quality documentation. Proven ability for creating SOP’s, training manuals, reports, and software user guides. Expertise and natural talent for translating complex ideas and processes into simple, easy to digest terms. Recognized for outstanding interpersonal and communication skills with the ability to work effectively with cross functional teams, at all organizational levels.
 
