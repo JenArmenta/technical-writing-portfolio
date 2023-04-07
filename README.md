@@ -1,6 +1,6 @@
 # Welcome to my technical writing portfolio!
 
-## This home page contains highlights from my career and was written using Markdown.
+## This page contains highlights from my career and was written using Markdown.
 
 ### SUMMARY
 Highly skilled technical writer, proficient with delivering accurate, high-quality documentation. Proven ability for creating SOP’s, training manuals, reports, and software user guides. Expertise and natural talent for translating complex ideas and processes into simple, easy to digest terms. Recognized for outstanding interpersonal and communication skills with the ability to work effectively with cross functional teams, at all organizational levels.
