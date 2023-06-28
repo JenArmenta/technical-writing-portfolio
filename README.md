@@ -1,4 +1,4 @@
-# Welcome to my technical writing portfolio!
+# Welcome to my writing portfolio!
 
 
 Visit my Wiki pages to see writing samples and learn more about me:
